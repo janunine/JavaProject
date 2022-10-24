@@ -1,0 +1,214 @@
+Programmer:        type your name here!!!!!!
+Course:            COSC 311,  F '22
+Project:           3
+Due date:          10-27-22
+
+Enter the length of simulation: 50
+Enter the average time between dial-in attempts: 0.2
+Enter the average connection time: 3
+Enter the number of modems: 5
+Enter the size of the waiting queue, -1 for an infinite queue: 10
+
+customer 1009 was denied service at time unit 2
+customer 1020 was denied service at time unit 3
+customer 1019 was denied service at time unit 3
+customer 1018 was denied service at time unit 3
+customer 1017 was denied service at time unit 3
+customer 1016 was denied service at time unit 3
+customer 1024 was denied service at time unit 4
+customer 1023 was denied service at time unit 4
+customer 1022 was denied service at time unit 4
+customer 1021 was denied service at time unit 4
+customer 1028 was denied service at time unit 5
+customer 1027 was denied service at time unit 5
+customer 1026 was denied service at time unit 5
+customer 1034 was denied service at time unit 6
+customer 1033 was denied service at time unit 6
+customer 1036 was denied service at time unit 7
+customer 1043 was denied service at time unit 8
+customer 1042 was denied service at time unit 8
+customer 1041 was denied service at time unit 8
+customer 1049 was denied service at time unit 9
+customer 1048 was denied service at time unit 9
+customer 1047 was denied service at time unit 9
+customer 1056 was denied service at time unit 10
+customer 1055 was denied service at time unit 10
+customer 1054 was denied service at time unit 10
+customer 1053 was denied service at time unit 10
+customer 1057 was denied service at time unit 11
+customer 1064 was denied service at time unit 12
+customer 1063 was denied service at time unit 12
+customer 1062 was denied service at time unit 12
+customer 1067 was denied service at time unit 13
+customer 1066 was denied service at time unit 13
+customer 1074 was denied service at time unit 14
+customer 1073 was denied service at time unit 14
+customer 1072 was denied service at time unit 14
+customer 1071 was denied service at time unit 14
+customer 1070 was denied service at time unit 14
+customer 1077 was denied service at time unit 15
+customer 1076 was denied service at time unit 15
+customer 1079 was denied service at time unit 16
+customer 1091 was denied service at time unit 17
+customer 1090 was denied service at time unit 17
+customer 1089 was denied service at time unit 17
+customer 1088 was denied service at time unit 17
+customer 1087 was denied service at time unit 17
+customer 1086 was denied service at time unit 17
+customer 1085 was denied service at time unit 17
+customer 1084 was denied service at time unit 17
+customer 1083 was denied service at time unit 17
+customer 1094 was denied service at time unit 18
+customer 1093 was denied service at time unit 18
+customer 1096 was denied service at time unit 19
+customer 1109 was denied service at time unit 21
+customer 1108 was denied service at time unit 21
+customer 1107 was denied service at time unit 21
+customer 1106 was denied service at time unit 21
+customer 1105 was denied service at time unit 21
+customer 1104 was denied service at time unit 21
+customer 1103 was denied service at time unit 21
+customer 1102 was denied service at time unit 21
+customer 1114 was denied service at time unit 22
+customer 1113 was denied service at time unit 22
+customer 1112 was denied service at time unit 22
+customer 1111 was denied service at time unit 22
+customer 1123 was denied service at time unit 23
+customer 1122 was denied service at time unit 23
+customer 1121 was denied service at time unit 23
+customer 1120 was denied service at time unit 23
+customer 1119 was denied service at time unit 23
+customer 1118 was denied service at time unit 23
+customer 1129 was denied service at time unit 24
+customer 1128 was denied service at time unit 24
+customer 1127 was denied service at time unit 24
+customer 1126 was denied service at time unit 24
+customer 1136 was denied service at time unit 25
+customer 1135 was denied service at time unit 25
+customer 1134 was denied service at time unit 25
+customer 1133 was denied service at time unit 25
+customer 1132 was denied service at time unit 25
+customer 1131 was denied service at time unit 25
+customer 1130 was denied service at time unit 25
+customer 1142 was denied service at time unit 27
+customer 1141 was denied service at time unit 27
+customer 1140 was denied service at time unit 27
+customer 1146 was denied service at time unit 28
+customer 1145 was denied service at time unit 28
+customer 1144 was denied service at time unit 28
+customer 1153 was denied service at time unit 29
+customer 1152 was denied service at time unit 29
+customer 1151 was denied service at time unit 29
+customer 1150 was denied service at time unit 29
+customer 1158 was denied service at time unit 31
+customer 1157 was denied service at time unit 31
+customer 1163 was denied service at time unit 32
+customer 1162 was denied service at time unit 32
+customer 1165 was denied service at time unit 33
+customer 1173 was denied service at time unit 34
+customer 1172 was denied service at time unit 34
+customer 1171 was denied service at time unit 34
+customer 1170 was denied service at time unit 34
+customer 1169 was denied service at time unit 34
+customer 1179 was denied service at time unit 37
+customer 1178 was denied service at time unit 37
+customer 1183 was denied service at time unit 38
+customer 1182 was denied service at time unit 38
+customer 1188 was denied service at time unit 39
+customer 1187 was denied service at time unit 39
+customer 1186 was denied service at time unit 39
+customer 1197 was denied service at time unit 40
+customer 1196 was denied service at time unit 40
+customer 1195 was denied service at time unit 40
+customer 1194 was denied service at time unit 40
+customer 1193 was denied service at time unit 40
+customer 1192 was denied service at time unit 40
+customer 1191 was denied service at time unit 40
+customer 1200 was denied service at time unit 41
+customer 1199 was denied service at time unit 41
+customer 1198 was denied service at time unit 41
+customer 1208 was denied service at time unit 43
+customer 1207 was denied service at time unit 43
+customer 1206 was denied service at time unit 43
+customer 1212 was denied service at time unit 44
+customer 1211 was denied service at time unit 44
+customer 1215 was denied service at time unit 45
+customer 1218 was denied service at time unit 46
+customer 1224 was denied service at time unit 47
+customer 1223 was denied service at time unit 47
+customer 1222 was denied service at time unit 47
+customer 1229 was denied service at time unit 48
+customer 1228 was denied service at time unit 48
+customer 1227 was denied service at time unit 48
+customer 1233 was denied service at time unit 49
+customer 1232 was denied service at time unit 49
+customer 1238 was denied service at time unit 50
+customer 1237 was denied service at time unit 50
+customer 1236 was denied service at time unit 50
+
+Average wait time = 3.89
+Percentage of time modems were busy = 95.09 
+Number of customers left in the waiting queue =10
+
+Run simulation again, yes (or no)? yes
+
+Enter the length of simulation: 50
+Enter the average time between dial-in attempts: 0.5
+Enter the average connection time: 3
+Enter the number of modems: 5
+Enter the size of the waiting queue, -1 for an infinite queue: 10
+
+customer 1291 was denied service at time unit 22
+customer 1290 was denied service at time unit 22
+customer 1289 was denied service at time unit 22
+customer 1288 was denied service at time unit 22
+customer 1312 was denied service at time unit 31
+customer 1311 was denied service at time unit 31
+customer 1310 was denied service at time unit 31
+customer 1318 was denied service at time unit 33
+customer 1317 was denied service at time unit 33
+customer 1346 was denied service at time unit 49
+customer 1345 was denied service at time unit 49
+customer 1344 was denied service at time unit 49
+
+Average wait time = 2.26
+Percentage of time modems were busy = 92.96 
+Number of customers left in the waiting queue =8
+
+Run simulation again, yes (or no)? yes
+
+Enter the length of simulation: 50
+Enter the average time between dial-in attempts: 0.8
+Enter the average connection time: 3
+Enter the number of modems: 5
+Enter the size of the waiting queue, -1 for an infinite queue: 10
+
+Average wait time = 0.50
+Percentage of time modems were busy = 75.19 
+Number of customers left in the waiting queue =0
+
+Run simulation again, yes (or no)? YES
+
+Enter the length of simulation: 50
+Enter the average time between dial-in attempts: 0.5
+Enter the average connection time: 3
+Enter the number of modems: 10
+Enter the size of the waiting queue, -1 for an infinite queue: 10
+
+Average wait time = 0.00
+Percentage of time modems were busy = 50.56 
+Number of customers left in the waiting queue =0
+
+Run simulation again, yes (or no)? yes
+
+Enter the length of simulation: 50
+Enter the average time between dial-in attempts: 0.5
+Enter the average connection time: 3
+Enter the number of modems: 5
+Enter the size of the waiting queue, -1 for an infinite queue: -1
+
+Average wait time = 2.90
+Percentage of time modems were busy = 89.09 
+Number of customers left in the waiting queue =15
+
+Run simulation again, yes (or no)? no
